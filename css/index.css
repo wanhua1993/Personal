@@ -138,7 +138,7 @@ body{
     background: url("../image/play_03.png") no-repeat center;
     background-size: 100% 100%;
     border-radius: 1rem;
-    z-index: 199;
+    z-index: 0;
 }
 .first .personal, .first .hobby{
     position: absolute;
